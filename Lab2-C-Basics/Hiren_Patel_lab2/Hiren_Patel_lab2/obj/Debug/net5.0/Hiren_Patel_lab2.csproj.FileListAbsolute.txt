@@ -1,0 +1,16 @@
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\bin\Debug\net5.0\Hiren_Patel_lab2.exe
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\bin\Debug\net5.0\Hiren_Patel_lab2.deps.json
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\bin\Debug\net5.0\Hiren_Patel_lab2.runtimeconfig.json
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\bin\Debug\net5.0\Hiren_Patel_lab2.runtimeconfig.dev.json
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\bin\Debug\net5.0\Hiren_Patel_lab2.dll
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\bin\Debug\net5.0\ref\Hiren_Patel_lab2.dll
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\bin\Debug\net5.0\Hiren_Patel_lab2.pdb
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\obj\Debug\net5.0\Hiren_Patel_lab2.csprojAssemblyReference.cache
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\obj\Debug\net5.0\Hiren_Patel_lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\obj\Debug\net5.0\Hiren_Patel_lab2.AssemblyInfoInputs.cache
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\obj\Debug\net5.0\Hiren_Patel_lab2.AssemblyInfo.cs
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\obj\Debug\net5.0\Hiren_Patel_lab2.csproj.CoreCompileInputs.cache
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\obj\Debug\net5.0\Hiren_Patel_lab2.dll
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\obj\Debug\net5.0\ref\Hiren_Patel_lab2.dll
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\obj\Debug\net5.0\Hiren_Patel_lab2.pdb
+C:\Users\hiren\OneDrive\Desktop\CSCI- 2910\Labs\lab2\Hiren_Patel_lab2\Hiren_Patel_lab2\obj\Debug\net5.0\Hiren_Patel_lab2.genruntimeconfig.cache
