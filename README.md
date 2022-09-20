@@ -1,2 +1,8 @@
-# CSCI-2910
-Server-Side Web Programming
+# Introduction
+  This repository has my completed projects from Server-Side Web Programming.
+  
+## Language
+  C#
+  
+## Final Grade Received
+  A
