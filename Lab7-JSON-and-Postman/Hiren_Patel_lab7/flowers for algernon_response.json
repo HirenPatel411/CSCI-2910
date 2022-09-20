@@ -1,0 +1,105 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 968,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "at_a1W2T-cMC",
+      "etag": "l/Zs/HnJYlo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/at_a1W2T-cMC",
+      "volumeInfo": {
+        "title": "Old Yeller",
+        "authors": [
+          "Fred Gipson"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2009-08-18",
+        "description": "A timeless American classic and one of the most beloved children’s books ever written, Old Yeller is a Newbery Honor Book that explores the poignant and unforgettable bond between a boy and the stray dog who becomes his loyal friend. When his father sets out on a cattle drive toward Kansas for the summer, fourteen-year-old Travis Coates is left to take care of his family and their farm. Living in Texas Hill Country during the 1860s, Travis comes to face new, unanticipated, and often perilous responsibilities in the frontier wilderness. A particular nuisance is a stray yellow dog that shows up one day and steals food from the family. But the big canine who Travis calls “Old Yeller” proves his worth by defending the family from danger. And Travis ultimately finds help and comfort in the courage and unwavering love of the dog who comes to be his very best friend. Fred Gipson’s novel is an eloquently simple story that is both exciting and deeply moving. It stands alongside works like The Adventures of Huckleberry Finn, Where The Red Fern Grows, and Shiloh as a beloved and enduring classic of literature. Originally published in 1956 to instant acclaim, Old Yeller later inspired a hit film from Walt Disney. Just as Old Yeller inevitably makes his way into the Coates family’s hearts, this book will find its own special place in readers’ hearts.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0061962864"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061962868"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 69,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=at_a1W2T-cMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=at_a1W2T-cMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=at_a1W2T-cMC&printsec=frontcover&dq=old_yeller&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=at_a1W2T-cMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=at_a1W2T-cMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=at_a1W2T-cMC&rdid=book-at_a1W2T-cMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Old_Yeller-sample-epub.acsm?id=at_a1W2T-cMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=at_a1W2T-cMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Just as Old Yeller inevitably makes his way into the Coates family’s hearts, this book will find its own special place in readers’ hearts."
+      }
+    }
+  ]
+}
