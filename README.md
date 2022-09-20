@@ -1,5 +1,5 @@
 # Introduction
-  This repository has my completed projects from Server-Side Web Programming.
+  This repository has my completed projects/labs from Server-Side Web Programming.
   
 ## Language
   C#
